@@ -1,0 +1,6 @@
+{
+  "name": "OptiCrop – Smart Agricultural Production Optimization Engine",
+  "description": "An AI-powered agricultural recommendation system that predicts the most suitable crop using environmental and soil parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
