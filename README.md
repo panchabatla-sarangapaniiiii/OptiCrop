@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/91501677-df93-443c-a969-3fdbc
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+https://opticrop-smart-agri-v1.ai.studio
