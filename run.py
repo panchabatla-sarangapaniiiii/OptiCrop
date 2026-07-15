@@ -1,11 +1,13 @@
-# run.py - Launcher for OptiCrop (from Development Phase)
+# Launcher for OptiCrop
 import os
 import sys
 import subprocess
 
-# Run the app from the Application folder
-app_dir = os.path.join(os.path.dirname(__file__), 'Application')
-os.chdir(app_dir)
+app_dir = os.path.join(
+    os.path.dirname(__file__),
+    "5. Project_Development_Phase",
+    "Application"
+)
 
-# Run app.py
-subprocess.run([sys.executable, 'app.py'])
+os.chdir(app_dir)
+subprocess.run([sys.executable, "app.py"])
